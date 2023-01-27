@@ -8,7 +8,7 @@ const errorType = [
 ];
 const errorMessages = {
     name: {
-        valueMissing: "This fname field can't be empty"
+        valueMissing: "This name field can't be empty"
     },
     email: {
         valueMissing: "This email field can't be empty",
